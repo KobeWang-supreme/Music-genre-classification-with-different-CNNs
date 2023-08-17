@@ -6,7 +6,9 @@ Results up to now:
 1. GoogleNet : Test Accuracy: Around 55% - 60%
    
 3. Newly Designed CNN: Test Accuracy: Around 70% - 80%
+   
    Architecture:
+   
    MelSpecClassifier(
   (b1): Sequential(
     (0): Conv2d(1, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3))
