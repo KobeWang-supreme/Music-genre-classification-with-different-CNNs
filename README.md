@@ -57,3 +57,5 @@ Results up to now:
     (19): Linear(in_features=64, out_features=10, bias=True)
   )
 )
+
+Still trying to explore new CNNs...
