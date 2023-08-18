@@ -96,3 +96,16 @@ Results up to now:
 )
 
 Still trying to explore new CNNs...
+
+Let's test on a Reggae Song:
+
+<img width="752" alt="96_degrees" src="https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/b9b995df-d11c-4735-8da7-55c1bcc5a33f">
+
+Result:
+
+![result](https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/124f157c-52c1-4a21-98d3-9604116a8389)
+
+
+
+
+
