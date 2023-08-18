@@ -1,4 +1,4 @@
-# Music-genre-classification-with-different-CNNswith-different-CNN
+# Music-genre-classification-with-different-CNNs
 Using different CNN models to train on GTZAN Dataset
 You can download the whole dataset from: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
