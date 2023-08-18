@@ -5,7 +5,9 @@ You can download the whole dataset from: https://www.kaggle.com/datasets/andrada
 Results up to now:
 1. GoogleNet : Test Accuracy: Around 55% - 60%
    
-3. Newly Designed CNN: Test Accuracy: Around 70% - 80%
+3. Newly Designed CNN: Test Accuracy(10 genres): Around 70% - 80%
+
+                       Test Accuracy(5 genres): Around 85%
    
    Architecture:
    
