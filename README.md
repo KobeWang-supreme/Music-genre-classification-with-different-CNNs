@@ -10,7 +10,7 @@ Results up to now:
                         With only Mel:  Test Accuracy(10 genres): Around 70% - 80%            Test Accuracy(5 genres): Around 85%
 
 
-                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): 80%+
+                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): Around 83%
 
    
    
