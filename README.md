@@ -7,10 +7,10 @@ Results up to now:
    
 3. Newly Designed CNN:
    
-                        With only Mel:  Test Accuracy(10 genres): Around 70% - 80%            Test Accuracy(5 genres): Around 85%
+                        With only Mel:  Test Accuracy(10 genres): Around 70% - 80%    (baseline: 10%)        Test Accuracy(5 genres): Around 85%   (baseline: 20%)
 
 
-                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): Around 83%
+                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): Around 83%     (baseline: 10%)
 
    
    
