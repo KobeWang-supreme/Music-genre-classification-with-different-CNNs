@@ -102,6 +102,14 @@ Results up to now:
   )
 )
 
+Confusion Matrics:
+
+
+<img width="500" alt="1" src="https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNs/assets/78716482/7543597a-6296-46c7-b123-36bc8179cbc5">
+
+
+
+
 Still trying to explore new CNNs...
 
 Let's test on a Reggae Song:
@@ -110,7 +118,7 @@ Let's test on a Reggae Song:
 
 Result:
 
-![result](https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/124f157c-52c1-4a21-98d3-9604116a8389)
+![result](https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/124f157c-52c1-4a21-98d3-9604116a8389
 
 
 
