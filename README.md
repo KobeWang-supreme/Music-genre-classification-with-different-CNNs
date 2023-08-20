@@ -123,4 +123,19 @@ Result:
 
 
 
+Findings:
+1. Actually, some musics belongs to not only one genre. Such as songs from Norah Jones, many songs of her belongs to both jazz and blues. Our model can only return one genre(with highest score). However, it is also clear that by visualizing scores for every genre, we can see jazz and blues have much higher scores than other genres.
+
+      <img width="259" alt="3" src="https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNs/assets/78716482/0d748f10-e239-46f0-851a-217e4f6100dd">
+
+   
+Let's take "Don't know why" as an example:
+
+
+<img width="539" alt="2" src="https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNs/assets/78716482/63d1f7f6-a557-48b3-9457-db118814f99c">
+
+
+
+
+
 
