@@ -118,7 +118,7 @@ Let's test on a Reggae Song:
 
 Result:
 
-![result](https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/124f157c-52c1-4a21-98d3-9604116a8389
+![result](https://github.com/KobeWang-supreme/Music-genre-classification-with-different-CNNswith-different-CNN/assets/78716482/124f157c-52c1-4a21-98d3-9604116a8389)
 
 
 
