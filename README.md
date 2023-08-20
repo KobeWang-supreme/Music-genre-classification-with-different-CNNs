@@ -10,7 +10,7 @@ Results up to now:
                         With only Mel:  Test Accuracy(10 genres): Around 70% - 80%    (baseline: 10%)        Test Accuracy(5 genres): Around 85%   (baseline: 20%)
 
 
-                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): Around 83%     (baseline: 10%)
+                        With Mel and Mfcc(added together):    Test Accuracy(10 genres): Around 83%     (baseline: 10%)    Test Accuracy(5 genres): Around 91% !!!!  (baseline: 20%)
 
    
    
